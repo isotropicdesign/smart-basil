@@ -16,10 +16,10 @@ sections:
     new_window: false
 - type: section_features
   template: section_features
-  title: Features
+  title: Meet SpeedOpp
   section_id: features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: The sole goal of this service is to increase your Google PageSpeed Insights
+    Ranking (or your money back).
   background: gray
   features:
   - title: The Best Feature of Your Services
