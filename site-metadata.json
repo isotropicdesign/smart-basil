@@ -31,7 +31,7 @@
   },
   "footer": {
     "logo_img": "images/logo_alt.png",
-    "tagline": "SpeedOpp, a service by <a href=isotropic.co>Isotropic</a>",
+    "tagline": "SpeedOpp, a professional speed optimization service by Isotropic.",
     "has_nav": true,
     "nav_title": "Company",
     "nav_links": [
@@ -71,14 +71,14 @@
         "new_window": true
       }
     ],
-    "has_subscribe": true,
+    "has_subscribe": false,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
-        "label": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "label": "An Offering By Isotropic",
+        "url": "https://www.isotropic.co",
         "new_window": true
       }
     ]
