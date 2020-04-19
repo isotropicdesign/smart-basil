@@ -22,28 +22,13 @@ sections:
     Ranking (or your money back).
   background: gray
   features:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: How SpeedOpp Would Address This Example Opportunities List​
+    content: |-
+      * Install or configure a CDN and Cache that preloads key requests for visitors browsers.
+      * Convert images to WebP and serve them as the primary format, with fallbacks to optimize legacy formats.
+      * Install a lazyload script to load images as they are needed, not all at once.
+      * Minify and combine CSS, HTML and JS files. Additionally, defer render-blocking JS scripts.
+    image: "/images/SiteOpps.PNG"
     actions:
     - label: Learn More
       url: "/features"
