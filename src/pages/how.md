@@ -20,6 +20,7 @@ Here are some example methods we might employ to fix the following opportunities
  </tr>
  <tr>
  <td>Remove unused CSS</td>
+   <td>We'll identify CSS that's not being called in specific pages and remove/disable it, leading to less data transfer needed on page load.</td>
  </tr>
  <tr>
  <td>Serve images in next-gen formats</td>
