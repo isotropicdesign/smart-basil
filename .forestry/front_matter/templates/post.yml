@@ -40,3 +40,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/making-wordpress-into-a-static-site.md
