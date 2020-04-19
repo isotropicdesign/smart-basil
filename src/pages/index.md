@@ -66,10 +66,11 @@ sections:
     content: Was able to schedule and get on an info call the same day that I contacted
       the Isotropic Team. Within one day, our PageSpeed score increased by 13 points,
       and we saw noticeably quicker page loading times.​
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: Jeff M
+    avatar: "/images/Jeff-McLane.jpg"
+    content: Was able to schedule and get on an info call the same day that I contacted
+      the Isotropic Team. Within one day, our PageSpeed score increased by 13 points,
+      and we saw noticeably quicker page loading times.​
 - type: section_cta
   template: section_cta
   title: This Is Call To Action Block!
