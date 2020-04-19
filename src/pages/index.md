@@ -68,9 +68,9 @@ sections:
       and we saw noticeably quicker page loading times.​
   - author: Jeff M
     avatar: "/images/Jeff-McLane.jpg"
-    content: Was able to schedule and get on an info call the same day that I contacted
-      the Isotropic Team. Within one day, our PageSpeed score increased by 13 points,
-      and we saw noticeably quicker page loading times.​
+    content: We track our PageRank in the Google Webmasters console. In the weeks
+      following our SpeedOpp service, the rank increased by several positions on multiple
+      pages, until we had several that showed up on the first page of Google search.
 - type: section_cta
   template: section_cta
   title: This Is Call To Action Block!
