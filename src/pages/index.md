@@ -34,6 +34,17 @@ sections:
       url: "/process"
       primary: false
       new_window: false
+- template: section_content
+  background: gray
+  type: section_content
+  content: |-
+    ![](/images/SiteOpps.PNG)
+
+    We'll generate a Google PageSpeed report for your website, identify the listed opportunities, and mechanically address every single one using tried and true methods. Site speed will increase, search engine placement will be benefited and user experience will be better. If your PageSpeed ranking doesn't increase by the time we're done with your site, you get your money back.
+  title: We Aggressively Remedy Every PageSpeed Opportunity
+  section_id: ''
+  image: ''
+  actions: []
 - template: section_faq
   background: gray
   type: section_faq
