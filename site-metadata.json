@@ -31,7 +31,7 @@
   },
   "footer": {
     "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "SpeedOpp, a service by <a href=isotropic.co>Isotropic</a>",
     "has_nav": true,
     "nav_title": "Company",
     "nav_links": [
@@ -53,11 +53,11 @@
       }
     ],
     "has_social": true,
-    "social_title": "Community",
+    "social_title": "Isotropic",
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
+        "label": "The Portfolio",
+        "url": "https://isotropic.co/portfolio",
         "new_window": true
       },
       {
