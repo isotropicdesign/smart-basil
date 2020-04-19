@@ -22,16 +22,16 @@ sections:
     Ranking (or your money back).
   background: gray
   features:
-  - title: How SpeedOpp Would Address This Example Opportunities List​
-    content: |-
-      * Install or configure a CDN and Cache that preloads key requests for visitors browsers.
-      * Convert images to WebP and serve them as the primary format, with fallbacks to optimize legacy formats.
-      * Install a lazyload script to load images as they are needed, not all at once.
-      * Minify and combine CSS, HTML and JS files. Additionally, defer render-blocking JS scripts.
+  - title: 'SpeedOpp Addresses Every PageSpeed Opportunity '
+    content: We'll generate a Google PageSpeed report for your website, identify the
+      listed opportunities, and mechanically address every single one using tried
+      and true methods. Site speed will increase, search engine placement will be
+      benefited and user experience will be better. If your PageSpeed ranking doesn't
+      increase by the time we're done with your site, you get your money back.
     image: "/images/SiteOpps.PNG"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: How We Do It
+      url: "/process"
       primary: false
       new_window: false
 - type: section_reviews
