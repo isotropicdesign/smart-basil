@@ -34,6 +34,16 @@ sections:
       url: "/process"
       primary: false
       new_window: false
+- template: section_faq
+  background: gray
+  type: section_faq
+  title: Our Process
+  subtitle: Here's how we make your site run faster and better.
+  faq_items:
+  - question: 'Step 1: Identify Issues'
+    answer: 'We''ll identify the issues with your site by creating a PageSpeed report
+      and jotting down the improvement opportunities. '
+  section_id: ''
 - type: section_reviews
   template: section_reviews
   title: Testimonials
