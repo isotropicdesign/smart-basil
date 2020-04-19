@@ -15,12 +15,12 @@
         "url": "https://speedopp.com/how"
       },
       {
-        "url": "#",
+        "url": "https://speedopp.com/blog",
         "label": "Blog"
       },
       {
         "label": "Get Started",
-        "url": "/signup",
+        "url": "/contact",
         "primary": true
       }
     ]
