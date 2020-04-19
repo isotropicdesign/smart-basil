@@ -38,7 +38,7 @@ sections:
       loading times. '
     actions:
     - label: How We Make Your Site Quicker
-      url: "#"
+      url: "/how"
       primary: false
       new_window: false
     image: "/images/8_thumb.jpg"
