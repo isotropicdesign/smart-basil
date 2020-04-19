@@ -25,6 +25,25 @@ sections:
   section_id: ''
   image: ''
   actions: []
+- template: section_features
+  background: gray
+  type: section_features
+  title: ''
+  features:
+  - title: Why SpeedOpp Works
+    content: 'We''re not using any special sauce. We''re just mechanically addressing
+      issues, identified by Google, that cause your website to load slower. Once implemented,
+      these measures, like WebP images, Caching and File Minification speed up your
+      site due to basic electrical theory -- less data transferred in one go = quicker
+      loading times. '
+    actions:
+    - label: How We Make Your Site Quicker
+      url: "#"
+      primary: false
+      new_window: false
+    image: ''
+  section_id: ''
+  subtitle: ''
 - template: section_faq
   background: gray
   type: section_faq
