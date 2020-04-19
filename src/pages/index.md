@@ -14,26 +14,6 @@ sections:
     url: "/features"
     primary: false
     new_window: false
-- type: section_features
-  template: section_features
-  title: Meet SpeedOpp
-  section_id: features
-  subtitle: The sole goal of this service is to increase your Google PageSpeed Insights
-    Ranking (or your money back).
-  background: gray
-  features:
-  - title: 'SpeedOpp Addresses Every PageSpeed Opportunity '
-    content: We'll generate a Google PageSpeed report for your website, identify the
-      listed opportunities, and mechanically address every single one using tried
-      and true methods. Site speed will increase, search engine placement will be
-      benefited and user experience will be better. If your PageSpeed ranking doesn't
-      increase by the time we're done with your site, you get your money back.
-    image: "/images/SiteOpps.PNG"
-    actions:
-    - label: How We Do It
-      url: "/process"
-      primary: false
-      new_window: false
 - template: section_content
   background: gray
   type: section_content
