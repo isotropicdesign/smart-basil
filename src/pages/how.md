@@ -2,7 +2,7 @@
 title: How We Do It
 subtitle: We aggressively remedy every PageSpeed Opportunity using tried-and-true
   methods.
-image: images/about.jpg
+image: "/images/SpeedOpp iPad Checklist.jpg"
 template: page
 
 ---
