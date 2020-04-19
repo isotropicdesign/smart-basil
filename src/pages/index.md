@@ -94,7 +94,7 @@ sections:
     guarantee will increase your PageSpeed ranking (or your money back).
   actions:
   - label: Get Started
-    url: "/signup"
+    url: "/contact"
     primary: false
     new_window: false
 - type: section_posts
