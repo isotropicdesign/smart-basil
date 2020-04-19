@@ -69,7 +69,7 @@ sections:
   title: Testimonials
   section_id: reviews
   subtitle: Read about some of our clients expirences with SpeedOpp.
-  background: white
+  background: gray
   reviews:
   - author: Jane M.
     avatar: "/images/Jane-morcos.jpg"
