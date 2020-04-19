@@ -51,3 +51,5 @@ As a result, your website will run quicker, rank higher, and convert more.
 </table>
 
 If you're interested in learning more about speed optimization methods, visit our blog. We publish tutorials and studies there for those who would rather optimize their own sites!
+
+<a href="https://speedopp.com/contact" class="button secondary">Get Started</a>
