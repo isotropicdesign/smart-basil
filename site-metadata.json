@@ -46,6 +46,10 @@
       {
         "label": "Get Started",
         "url": "signup"
+      },
+      {
+        "label": "Blog",
+        "url": "/blog"
       }
     ],
     "has_social": true,
