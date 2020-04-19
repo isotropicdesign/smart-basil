@@ -41,7 +41,7 @@ sections:
       url: "#"
       primary: false
       new_window: false
-    image: ''
+    image: "/images/8_thumb.jpg"
   section_id: ''
   subtitle: ''
 - template: section_faq
