@@ -64,6 +64,12 @@ sections:
       speed, responsiveness, SEO and rankings. If the PageSpeed score does not increase
       within the week, you''ll get your money back. '
   section_id: ''
+- template: section_cta
+  type: section_cta
+  title: add in JAMstack image here (make new content type).
+  section_id: ''
+  subtitle: ''
+  actions: []
 - type: section_reviews
   template: section_reviews
   title: Testimonials
