@@ -43,6 +43,16 @@ sections:
   - question: 'Step 1: Identify Issues'
     answer: 'We''ll identify the issues with your site by creating a PageSpeed report
       and jotting down the improvement opportunities. '
+  - question: 'Step 2: Generate Quote'
+    answer: Our system will create a semi-instant quote for you based off of these
+      opportunities and your website framework.
+  - question: 'Step 3: Begin Project'
+    answer: After payment & access, we begin mechanically addressing every listed
+      opportunity. Depending on the project, this takes anywhere from 1-3 days.
+  - question: 'Step 4: PageSpeed Increase'
+    answer: 'After addressing these issues, you''ll see an increase in website loading
+      speed, responsiveness, SEO and rankings. If the PageSpeed score does not increase
+      within the week, you''ll get your money back. '
   section_id: ''
 - type: section_reviews
   template: section_reviews
