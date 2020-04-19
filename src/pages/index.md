@@ -53,14 +53,14 @@ sections:
   template: section_reviews
   title: Testimonials
   section_id: reviews
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: Read about some of our clients expirences with SpeedOpp.
   background: white
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Jane M.
+    avatar: "/images/Jane-morcos.jpg"
+    content: Was able to schedule and get on an info call the same day that I contacted
+      the Isotropic Team. Within one day, our PageSpeed score increased by 13 points,
+      and we saw noticeably quicker page loading times.​
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
