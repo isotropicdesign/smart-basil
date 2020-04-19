@@ -3,7 +3,7 @@
   "palette": "orange",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/SpeedOpp Text Logo.png",
     "has_nav": true,
     "nav_links": [
       {
@@ -30,7 +30,7 @@
     ]
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/SpeedOpp Text Logo.png",
     "tagline": "SpeedOpp, a professional speed optimization service by Isotropic.",
     "has_nav": true,
     "nav_title": "SpeedOpp",
