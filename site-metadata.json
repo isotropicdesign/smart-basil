@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "SpeedOpp",
   "palette": "orange",
   "header": {
     "title": "Azimuth",
@@ -33,23 +33,19 @@
     "logo_img": "images/logo_alt.png",
     "tagline": "SpeedOpp, a professional speed optimization service by Isotropic.",
     "has_nav": true,
-    "nav_title": "Company",
+    "nav_title": "SpeedOpp",
     "nav_links": [
       {
-        "label": "About Us",
+        "label": "Home",
         "url": "/about"
       },
       {
-        "label": "Blog",
+        "label": "How We Do It",
         "url": "/blog"
       },
       {
-        "label": "Sign Up",
+        "label": "Get Started",
         "url": "signup"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact"
       }
     ],
     "has_social": true,
