@@ -63,7 +63,7 @@ sections:
     answer: 'After addressing these issues, you''ll see an increase in website loading
       speed, responsiveness, SEO and rankings. If the PageSpeed score does not increase
       within the week, you''ll get your money back. '
-  section_id: ''
+  section_id: process
 - type: section_reviews
   template: section_reviews
   title: Testimonials
