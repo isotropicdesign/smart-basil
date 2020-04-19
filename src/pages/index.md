@@ -8,7 +8,7 @@ sections:
   content: Boosting the speed of your website increases SEO, lowers bounce rates,
     and leads to more conversions. If you’re looking for a low cost, high impact way
     to bolster your digital appearance, consider SpeedOpp.
-  image: images/hero.png
+  image: "/images/HeaderImg.png"
   actions:
   - label: Get Started
     url: "/features"
