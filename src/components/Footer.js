@@ -64,7 +64,7 @@ export default class Footer extends React.Component {
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.subscribe_content') && 
                       <p>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.subscribe_content'))}</p>
                       }
-                      <SubscribeForm {...this.props} />
+                      <p>SpeedOpp aggressively remedies every PageSpeed opportunity, resulting in quicker sites, lower bounce rates and increased user experience.</p>
                     </div>
                     }
                   </div>
