@@ -73,9 +73,10 @@ sections:
       pages, until we had several that showed up on the first page of Google search.
 - type: section_cta
   template: section_cta
-  title: This Is Call To Action Block!
+  title: Better PageSpeed Score, Or Your Money Back
   section_id: call-to-action
-  subtitle: This is an optional description for the call to action block.
+  subtitle: We address your pagespeed score by using tried and true methods that we
+    guarantee will increase your PageSpeed ranking (or your money back).
   actions:
   - label: Get Started
     url: "/signup"
