@@ -11,19 +11,15 @@
         "url": "/"
       },
       {
-        "label": "Features",
-        "url": "/features"
+        "label": "How We Do It",
+        "url": "#"
       },
       {
-        "label": "Pricing",
-        "url": "/pricing"
+        "url": "#",
+        "label": "Blog"
       },
       {
-        "label": "Style Guide",
-        "url": "/style-guide"
-      },
-      {
-        "label": "Sign Up",
+        "label": "Get Started",
         "url": "/signup",
         "primary": true
       }
