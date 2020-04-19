@@ -31,11 +31,11 @@ sections:
   title: ''
   features:
   - title: Why SpeedOpp Works
-    content: 'We''re not using any special sauce. We''re just mechanically addressing
+    content: We're not using any special sauce. We're just mechanically addressing
       issues, identified by Google, that cause your website to load slower. Once implemented,
-      these measures, like WebP images, Caching and File Minification speed up your
-      site due to basic electrical theory -- less data transferred in one go = quicker
-      loading times. '
+      these measures (like WebP images, Caching and File Minification) speed up your
+      site due to basic math -- less data transferred in one go = quicker loading
+      times.
     actions:
     - label: How We Make Your Site Quicker
       url: "/how"
