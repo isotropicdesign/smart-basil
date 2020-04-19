@@ -58,9 +58,9 @@ sections:
   reviews:
   - author: Jane M.
     avatar: "/images/Jane-morcos.jpg"
-    content: Was able to schedule and get on an info call the same day that I contacted
-      the Isotropic Team. Within one day, our PageSpeed score increased by 13 points,
-      and we saw noticeably quicker page loading times.​
+    content: We had [Isotropic] address some opportunities from our PageSpeed report,
+      like incoroating WebP images on our Wordpress website. Because our site is an
+      image based portfolio, it loaded MUCH quicker than before.
   - author: Dennis A.
     avatar: "/images/Dennis-Arellos.jpg"
     content: Was able to schedule and get on an info call the same day that I contacted
