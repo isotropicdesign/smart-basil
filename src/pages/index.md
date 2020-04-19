@@ -11,7 +11,7 @@ sections:
   image: "/images/HeaderImg.png"
   actions:
   - label: Get Started
-    url: "/features"
+    url: https://speedopp.com/contact
     primary: false
     new_window: false
 - template: section_content
