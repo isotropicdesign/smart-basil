@@ -41,6 +41,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/how-to-defer-parsing-of-javascript-for-youtube-embeds.md
 - src/pages/posts/how-to-eliminate-render-blocking-resources-for-wordpress-websites.md
 - src/pages/posts/making-wordpress-into-a-static-site.md
