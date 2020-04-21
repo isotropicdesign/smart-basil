@@ -11,7 +11,7 @@ module.exports = {
               background_color: `#F7F9FB`,
               theme_color: `#FB6100`,
               display: `standalone`,
-              icon:'static\images\s_logo_color__hbF_icon.ico',
+              icon:'static/images/s_logo_color__hbF_icon.ico',
             },
           },
 
