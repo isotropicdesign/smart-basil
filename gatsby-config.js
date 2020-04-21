@@ -14,7 +14,14 @@ module.exports = {
               icon:'static/images/S Logo color .png',
             },
           },
-
+          {
+            resolve: `gatsby-plugin-sharp`,
+            options: {
+              useMozJpeg: false,
+              stripMetadata: true,
+              defaultQuality: 75,
+            },
+          },
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
@@ -25,7 +32,6 @@ module.exports = {
         `gatsby-plugin-sitemap`,
         `gatsby-plugin-robots-txt`,
         `gatsby-transformer-sharp`, 
-        `gatsby-plugin-sharp`,
         `gatsby-source-data`,
         {
             resolve: `gatsby-source-filesystem`,
