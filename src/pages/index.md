@@ -1,6 +1,4 @@
 ---
-<title>SpeedOpp | Professional PageSpeed Optomization</title>
-<meta name="description" content="SpeedOpp is a professional speed optimization service by Isotropic. Boost your PageSpeed Score, SEO and Conversions.">
 title: Home
 sections:
 - type: section_hero
