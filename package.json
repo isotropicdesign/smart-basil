@@ -22,6 +22,7 @@
     "gatsby-plugin-sitemap": "^2.3.5",
     "gatsby-source-filesystem": "2.0.28",
     "gatsby-transformer-remark": "2.3.8",
+    "gatsby-transformer-sharp": "^2.4.6",
     "js-yaml": "^3.12.2",
     "lodash": "^4.17.11",
     "marked": "^0.6.1",
