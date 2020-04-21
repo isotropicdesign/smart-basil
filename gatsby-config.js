@@ -35,7 +35,7 @@ module.exports = {
             options: {
                 inputFile: `${__dirname}/src/sass/main.scss`,
                 outputFile: `${__dirname}/public/assets/css/main.css`
-            },z
+            },
         },
         {
             resolve: `gatsby-transformer-remark`,
