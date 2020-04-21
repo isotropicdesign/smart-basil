@@ -11,14 +11,13 @@ module.exports = {
               background_color: `#F7F9FB`,
               theme_color: `#FB6100`,
               display: `standalone`,
-              icon: `static\images\s_logo_color__hbF_icon.ico`
+
             },
           },
 
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-              // The property ID; the tracking code won't be generated without it
               trackingId: "UA-159937109-3",
             },
         },
