@@ -41,6 +41,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/how-to-analyze-a-website-with-lighthouse.md
 - src/pages/posts/how-to-defer-parsing-of-javascript-for-youtube-embeds.md
 - src/pages/posts/how-to-eliminate-render-blocking-resources-for-wordpress-websites.md
 - src/pages/posts/how-to-identify-and-remove-unused-css-for-wordpress-websites.md
