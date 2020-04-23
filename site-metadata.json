@@ -38,15 +38,15 @@
     "nav_links": [
       {
         "label": "Home",
-        "url": "/about"
+        "url": "https://speedopp.com"
       },
       {
         "label": "How We Do It",
-        "url": "/blog"
+        "url": "https://speedopp.com/how"
       },
       {
         "label": "Get Started",
-        "url": "signup"
+        "url": "https://speedopp.com/contact"
       },
       {
         "label": "Blog",
