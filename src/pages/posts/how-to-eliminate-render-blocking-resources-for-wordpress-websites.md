@@ -2,7 +2,7 @@
 template: post
 title: How To Eliminate Render-blocking Resources For Wordpress Websites
 subtitle: "⛔ to render blocking \U0001F469‍\U0001F4BB. Let's fix this."
-date: 2020-04-19T11:11:00Z
+date: 2020-04-19T11:11:00.000+00:00
 excerpt: Getting rid of render blocking resources will help your Wordpress website
   load much faster. Implement this fix correctly and you'll see a noticeable increase
   in pagespeed.
@@ -49,7 +49,7 @@ By eliminating these render blocking resources, you can drastically speed up the
 
 For such a major problem, it's pretty easy to fix. We simply need to move the render blocking code & files lower, so the browser loads the visible content first.
 
-_In this section, we'll introduce the actual mechanics behind the strategies used to fix render-blocking resources. Unless you're a frontend developer, you don't need to do any of this (plugins do it automatically), but it's a good idea to understand how everything works. If you don't want to, simply skip to the next section._ 
+_In this section, we'll introduce the actual mechanics behind the strategies used to fix render-blocking resources. Unless you're a frontend developer, you don't need to do any of this (plugins do it automatically), but it's a good idea to understand how everything works. If you don't want to, simply skip to the next section._
 
 The two categories of render blocking content are CSS and JavaScript, each of which has different strategies to eliminate their impact on page speed.
 
@@ -94,14 +94,14 @@ How do you actually implement the loading styles? It's just a simple addition to
 
     <script [defer]OR[async] src="script.js">
 
-There's no "best" choice for loading style -- everything really depends on your situation. 
+There's no "best" choice for loading style -- everything really depends on your situation.
 
 Also -- You can also move the script in the actual HTML source of the page. For example, scripts essential to the page are typically loaded in the header, while scripts that are needed, but not immediately are loaded in the footer.
 
-* If the script is below the content that's needed immediately, then it may be best to leave it as it is. 
+* If the script is below the content that's needed immediately, then it may be best to leave it as it is.
 * If the script isn't dependent on other files and/or doesn't have any dependencies, async may be a good choice.
-* Does it have a dependency on something in the page and isn't immediately required? It may be best to move it to the footer. 
-* Does it have a dependency on something in the page, needs to stay where it is, _and_ impact the initial loading of the webpage? Deferring it is probably your best bet. 
+* Does it have a dependency on something in the page and isn't immediately required? It may be best to move it to the footer.
+* Does it have a dependency on something in the page, needs to stay where it is, _and_ impact the initial loading of the webpage? Deferring it is probably your best bet.
 
 Now that you understand how to fix this, here's some good news. With Wordpress, there are _dozens_ of plugins that automatically implement the fixes mentioned above, while determining which strategy is best for your specific website. All you need to do is install, configure, and run it.
 
@@ -111,7 +111,7 @@ Wordpress has some amazing plugins (both free and paid) that can address your Pa
 
 ### WP Rocket
 
-WP Rocket is our current favorite Wordpress speed plugin. It's paid, but extremely powerful - the price to value ratio is off the charts. It'll allow you to do a lot, but specific to this post, you can load Javascript deferred, exclude some files from this optimization (the important ones that are required immediately) and run the deferral in "safe mode" which attempts to automatically exclude essential scripts from the deferral. On the CSS side, you can automatically determine which CSS should be loaded asynchronously on your site, and apply that loading style (all as a background process). We love this plugin because it's super powerful (and _easy_) for both developers and less-technical website owners.
+[WP Rocket](http://out.speedopp.com/wp-rocket) is our current favorite Wordpress speed plugin. It's paid, but extremely powerful - the price to value ratio is off the charts. It'll allow you to do a lot, but specific to this post, you can load Javascript deferred, exclude some files from this optimization (the important ones that are required immediately) and run the deferral in "safe mode" which attempts to automatically exclude essential scripts from the deferral. On the CSS side, you can automatically determine which CSS should be loaded asynchronously on your site, and apply that loading style (all as a background process). We love this plugin because it's super powerful (and _easy_) for both developers and less-technical website owners.
 
 ### WP Fastest Cache
 
