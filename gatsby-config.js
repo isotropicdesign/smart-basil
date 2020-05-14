@@ -14,6 +14,14 @@ module.exports = {
               icon:'static/images/S Logo color .png',
             },
           },
+            {
+                resolve: `gatsby-plugin-chatwoot`,
+                options: {
+                    baseUrl: 'https://isotropic-livechat.herokuapp.com/', // Required
+                    websiteToken: 'SEikbFG1HFRNKRkXevxhVeqJ', // Required
+                    includeInDevelopment: false, // Optional
+                },
+            },
           {
             resolve: `gatsby-plugin-sharp`,
             options: {
